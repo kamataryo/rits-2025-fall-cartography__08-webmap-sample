@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "立命館大学衣笠キャンパス"
+        "name": "立命館大学衣笠キャンパス(イマココ)",
+        "type": "大学"
       },
       "geometry": {
         "coordinates": [

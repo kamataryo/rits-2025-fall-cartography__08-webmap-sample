@@ -1,0 +1,571 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1489467852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0500782,
+          34.3462531
+        ]
+      },
+      "properties": {
+        "addr:block_number": "10",
+        "addr:city": "高松市",
+        "addr:neighbourhood": "1",
+        "addr:province": "香川県",
+        "addr:quarter": "兵庫町",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ariosto",
+        "name:ja": "パスタ・デ・アリオスト",
+        "opening_hours": "11:00-14:30, 17:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2349140699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0560938,
+          34.3220704
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "source": "survey;Bing(position)",
+        "survey_date": "2012-11-01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2349140877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9930604,
+          34.3529894
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "アッカカルダ",
+        "source": "survey;Bing(position)",
+        "survey_date": "2012-11-01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2385744367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7653313,
+          33.8088985
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "トスカーナの休日"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2991960841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5519357,
+          34.0727433
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "せばすちゃん"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3608695812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5524738,
+          34.0665801
+        ]
+      },
+      "properties": {
+        "cuisine": "italian",
+        "name": "ナポリの釜",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3692776743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5812961,
+          34.1341989
+        ]
+      },
+      "properties": {
+        "addr:city": "徳島県板野郡広島",
+        "addr:housename": "Cafe Contigo",
+        "addr:housenumber": "9-1",
+        "addr:postcode": "771-0220",
+        "addr:street": "広島字一番越",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "designation": "Cafe",
+        "name": "Cafe Contigo",
+        "source": "http://contigo.mints.ne.jp/cafe/",
+        "website": "http://contigo.mints.ne.jp/cafe/",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3947099094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.1164397,
+          33.8972503
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "MARUBUN"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5935625910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7540179,
+          33.9085372
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "アルポルテ",
+        "name:en": "Al Porte"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6364042486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5495753,
+          34.0675985
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "ジラソーレ",
+        "name:en": "Girasole",
+        "phone": "+81 886251180"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6611771702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8120078,
+          34.3007871
+        ]
+      },
+      "properties": {
+        "addr:street": "丸亀市土器町東9−138",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "ながぐつ",
+        "name:de": "Pizza & Pasta Nagagutsu",
+        "name:en": "Pizza & Pasta Nagagutsu",
+        "opening_hours": "Mo-Su 11:00-14:00, 17:30-23:00",
+        "phone": "0377-85-6362"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6866172099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7699384,
+          33.8401825
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Da Bocciano!"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7760310561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5195716,
+          34.0898144
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "イタリアンレストランRiposo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8227584302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0049473,
+          34.0674582
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "KARMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8229849679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9981366,
+          34.0362939
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "ファリーナフレスカ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8236206179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0139554,
+          34.0516233
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "フルカワ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8238744258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0020407,
+          34.0588889
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "アルベーノ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8288889806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0382013,
+          34.0261778
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "オリーブハウス"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8305214771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0045087,
+          34.0498563
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Osteria erie"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8311495462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9796655,
+          34.0576022
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "欧風イタリア食堂 グラッチャーノ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9368063031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0420799,
+          34.3178117
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante めぐみ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10292682480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0501486,
+          34.3438316
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "鎌倉パスタ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10303685373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0471482,
+          34.3445585
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "check_date": "2023-01-04",
+        "cuisine": "italian",
+        "name": "ピッツァリア18",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10308429599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0909629,
+          34.3545502
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "branch": "屋島店",
+        "check_date": "2024-08-16",
+        "cuisine": "italian",
+        "name": "Dear"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10310735551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0698266,
+          34.3466974
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "check_date": "2023-01-06",
+        "cuisine": "italian",
+        "name": "Infinity"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10584338085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9626176,
+          34.0442423
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "鎌倉パスタ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10814314488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9300829,
+          34.2517028
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "brand": "サイゼリヤ",
+        "brand:en": "Saizeriya",
+        "brand:ja": "サイゼリヤ",
+        "brand:wikidata": "Q886564",
+        "cuisine": "italian",
+        "name": "サイゼリヤ",
+        "name:en": "Saizeriya",
+        "name:ja": "サイゼリヤ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10815778815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8100116,
+          34.308214
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "brand": "サイゼリヤ",
+        "brand:en": "Saizeriya",
+        "brand:ja": "サイゼリヤ",
+        "brand:wikidata": "Q886564",
+        "contact:phone": "+81 877-56-7030",
+        "cuisine": "italian",
+        "name": "サイゼリヤ",
+        "name:en": "Saizeriya",
+        "name:ja": "サイゼリヤ",
+        "opening_hours": "10:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11684813387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0182216,
+          33.4248293
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "level": "2",
+        "name": "イタリア食堂トンノ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12223988510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5554813,
+          33.2060924
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Piccola Isola"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12367152754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9801005,
+          34.0565997
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "brand": "サイゼリヤ",
+        "brand:en": "Saizeriya",
+        "brand:ja": "サイゼリヤ",
+        "brand:wikidata": "Q886564",
+        "cuisine": "italian",
+        "name": "サイゼリヤ",
+        "name:en": "Saizeriya",
+        "name:ja": "サイゼリヤ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12662814292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8122078,
+          34.3116418
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "COVO"
+      }
+    }
+  ]
+}

@@ -20,7 +20,7 @@ const map = new maplibregl.Map({
         },
         'my-data': {
           type: 'geojson',
-          data: 'sample.geojson',
+          data: 'italian.geojson',
         }
       },
       layers: [
@@ -45,7 +45,7 @@ const map = new maplibregl.Map({
           type: 'symbol',
           source: 'my-data',
           layout: {
-            'text-field': ['get', 'name'], // GeoJSONのプロパティ'name'を表示
+            'text-field': ['get', 'name:ja'], // GeoJSONのプロパティ'name'を表示
             'text-font': ['Noto Sans JP Regular'],
             'text-size': 12,
             'text-offset': [0, 1.5],
@@ -76,11 +76,20 @@ const map = new maplibregl.Map({
 });
 
 // クリックした時のインタラクション
-map.on('click', function (e) {
-    const features = map.queryRenderedFeatures(e.point, { layers: ['my-data_circle-layer', 'my-data_symbol-layer'] });
+map.on('click', function (event) {
+    const features = map.queryRenderedFeatures(
+      event.point,
+      {
+        layers: [
+          'my-data_circle-layer',
+          'my-data_symbol-layer',
+        ]
+      }
+    );
+
     if(features.length > 0){
         const feature = features[0];
-        alert('クリックした地物:\n' + feature.properties.name);
+        alert('クリックした地物の営業時間:\n' + feature.properties.opening_hours);
     }
 })
 
